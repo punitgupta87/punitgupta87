@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**punitgupta87/punitgupta87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# </u>Reading List</b>
+## Must Read Tech Blogs  
+- https://www.uber.com/us/en/blog/schemaless-part-two-architecture/ : Uber created 3d database which has no schema , its saving entire json in a column and each ride, cost/payment in another column and all review and metadata in 3rd column. 
+- https://arxiv.org/pdf/1706.03762 : Hard to understand bur an amazign dataset mentioned here is worth checking out
 
-Here are some ideas to get you started:
+## </b>To follow</b>
+- https://cloud.google.com/blog/topics/ai-machine-learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Courses Completed 
+
+
+## Certifications
+- AWS Certified Developer 
+- Snowflake certified
