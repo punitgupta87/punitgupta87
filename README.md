@@ -23,4 +23,4 @@
 
 ## Books
 
-## Miscs
+## Misc
